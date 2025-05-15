@@ -1,0 +1,10 @@
+{
+    "dart.flutterSdkPath": "C:\\Users\\poste\\flutter",               // ✅ vers le dossier Flutter
+    "dart.flutterSdkPaths": [
+        "C:\\Users\\poste\\flutter"
+    ],
+    "dart.sdkPaths": [
+        "C:\\Users\\poste\\flutter\\bin\\cache\\dart-sdk"
+    ],
+    "dart.sdkPath": "C:\\Users\\poste\\flutter\\bin\\cache\\dart-sdk"
+}
